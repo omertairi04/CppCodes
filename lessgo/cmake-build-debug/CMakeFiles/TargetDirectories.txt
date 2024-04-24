@@ -1,0 +1,3 @@
+/home/intelory/cpps/lessgo/cmake-build-debug/CMakeFiles/lessgo.dir
+/home/intelory/cpps/lessgo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/intelory/cpps/lessgo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
