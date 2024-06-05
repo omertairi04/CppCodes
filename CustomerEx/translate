@@ -1,0 +1,39 @@
+To create a Customer class to describe the customers of a bookstore. For each customer,
+data is stored on:
+
+    the name (string of 50 characters),
+    email address (string of 50 characters),
+    type of customer (standard, loyal or VIP),
+    base discount (whole number expressed as a percentage),
+    additional discount (whole number expressed as a percentage) and
+    number of products purchased. (5 points)
+All loyal buyers by showing a club card are entitled to the basic discount when buying
+from the bookstore. The basic discount is the same for all loyal buyers and is 10%.
+This value can be changed by decision of the management of the bookstore. The
+additional discount is fixed and can only be used by VIP buyers and is 20%. Standard buyers are
+not entitled to a discount (5 points).
+
+For this class to implement the operator << to print a customer in the format:
+
+[name_na_kupuvac]
+[email_na_kupuvac]
+[number_of_products]
+[vid_na_kupuvac] [popust_sto_moze_da_go_koristi]
+
+where the discount is 0% if the buyer is standard, the value of the basic discount, if he is loyal,
+or the sum of the basic and additional discounts, if the buyer is a vip. (5 points)
+
+To create a class for online bookstore FINKI-bookstore that stores an array of registered buyers
+(dynamically allocated array) and number of buyers. (5 points) For the class to provide:
+
+operator+= (10 points) to add a buyer to the list of buyers, but only if he is not part of it
+already (if there is no buyer with the same email address in the list). If a user with the same
+email address exists in the list, a UserExistsException exception should be generated. It is
+necessary to provide exception handling in the main function at the indicated place. In this
+situation, the message "The user already exists in the list" is printed (5 points).
+Update function with which all standard buyers with more than 5 products purchased become loyal,
+and all loyal buyers with more than 10 products purchased become VIP (5 points).
+
+Operator << to print information for all registered buyers (5 points).
+
+To provide all additional methods necessary for the proper functioning of the program. (10 points)

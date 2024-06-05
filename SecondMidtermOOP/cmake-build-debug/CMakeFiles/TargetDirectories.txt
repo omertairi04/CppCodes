@@ -1,0 +1,3 @@
+/home/omer/CLionProjects/SecondMidtermOOP/cmake-build-debug/CMakeFiles/SecondMidtermOOP.dir
+/home/omer/CLionProjects/SecondMidtermOOP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/omer/CLionProjects/SecondMidtermOOP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

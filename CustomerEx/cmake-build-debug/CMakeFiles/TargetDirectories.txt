@@ -1,0 +1,3 @@
+/home/omer/CLionProjects/CustomerEx/cmake-build-debug/CMakeFiles/CustomerEx.dir
+/home/omer/CLionProjects/CustomerEx/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/omer/CLionProjects/CustomerEx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
